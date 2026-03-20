@@ -35,7 +35,7 @@ const DRAFT_KEYS_CT = {
     OFFLINE: 'offline_ct_logsheets'
 };
 
-const GAS_URL = "https://script.google.com/macros/s/AKfycbyI_ovHFPYYl9MOVLgxjPmnT_y4c3nEy4rEoXRJaaxr33N9_gqC4uhngz3yAURPC6lG/exec";
+const GAS_URL = "https://script.google.com/macros/s/AKfycbxZfxr7JPetl7nGMrJADJRzYH46pa031z25hve5nVhrnulp5E2XOlpmURb9k6Uh9JI0/exec";
 
 const OFFLINE_USERS = {
     'admin': { password: 'admin123', role: 'admin', name: 'Administrator', department: 'Unit Utilitas 3B' },
